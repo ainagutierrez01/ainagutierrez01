@@ -6,6 +6,7 @@
 ## 🚀 About Me
 
 |  |  |
+|--|--|
 | **Currently:** | **Audiovisual Systems Engineer Student** <br> *Expected graduation: July 2026* <br> **• Universitat Pompeu Fabra (UPF), Barcelona**
 
 ---
