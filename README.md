@@ -8,9 +8,13 @@
 |  |  |
 |--|--|
 | **Currently:** | **Audiovisual Systems Engineer Student** <br> *Expected graduation: July 2026* <br> **• Universitat Pompeu Fabra (UPF), Barcelona**
+| 💻 **Software Test Intern:** | **Dolby Laboratories** <br> *3 month internship* <br> - Report issues through a formal bug tracking system and work with the engineering team to help isolate, debug, and resolve issues/bugs. |
 
 ---
+## 🏆 Competition Participations
 
+- **Data4Good Festival** - Uncovering Stories and Insights from Holocaust Documentation 
+- **Damm x EHub** -   
 
 <!---
 ainagutierrez01/ainagutierrez01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
