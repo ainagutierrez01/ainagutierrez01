@@ -8,7 +8,7 @@
 |  |  |
 |--|--|
 | **Currently:** | **Audiovisual Systems Engineer Student** <br> *Expected graduation: July 2026* <br> **• Universitat Pompeu Fabra (UPF), Barcelona**
-| 💻 **Software Test Intern:** | **Dolby Laboratories** <br> *3 month internship* <br> - Report issues through a formal bug tracking system and work with the engineering team to help isolate, debug, and resolve issues/bugs. |
+|  | 💻 **Software Test Intern:** at **Dolby Laboratories** <br> *3 month internship* <br> - Report issues through a formal bug tracking system and work with the engineering team to help isolate, debug, and resolve issues/bugs. |
 
 ---
 ## 🏆 Competition Participations
