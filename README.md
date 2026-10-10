@@ -7,16 +7,28 @@
 
 |  |  |
 |--|--|
-| **Currently:** | **Audiovisual Systems Engineer Student** <br> *Expected graduation: July 2026* <br> **• Universitat Pompeu Fabra (UPF), Barcelona**
-|  | 💻 **Software Test Intern:** at **Dolby Laboratories** <br> *3 month internship* <br> - Report issues through a formal bug tracking system and work with the engineering team to help isolate, debug, and resolve issues/bugs. |
+| **Currently:** | **Application Engineer** at **Algam Ibérica** 🇪🇸 <br> Working on AV systems integration and programming AMX devices. |
+| **Education:** | **BSc in Audiovisual Systems Engineering** <br> *Universitat Pompeu Fabra (UPF), Barcelona* <br> Graduated in June 2026 🎓 |
+| **Previous Experience:** | 💻 **Software QA Intern at Dolby Laboratories** <br> Worked on internal tools and QA infrastructure for Dolby Atmos Renderer, including Python-based audio tools and automated testing. |
 
 ---
+
 ## 🏆 Competition Participations
 
-- **Data4Good Festival** - Uncovering Stories and Insights from Holocaust Documentation 
-- **Damm x EHub** -   
+- **Damm x EHub Hackathon** — 🏅 4th place
+- **Data4Good Festival** — *Uncovering Stories and Insights from Holocaust Documentation*
+
+---
+
+## 💡 Interests
+
+- 🎵 Audio Processing & Machine Learning
+- 🤖 Artificial Intelligence & Generative AI
+- 💻 Software Development
+- 🔊 Audio-Visual Systems & Technology
 
 <!---
-ainagutierrez01/ainagutierrez01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ainagutierrez01/ainagutierrez01 is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+---> 
+
+
